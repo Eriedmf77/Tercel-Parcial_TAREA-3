@@ -1,0 +1,2 @@
+# Tercel-Parcial_TAREA-3
+EJERCICIOS CAP XVII Y XVIII
