@@ -252,7 +252,9 @@ https://youtu.be/wfme_0k_dzY
 
 ## 6.Bibliografía 
 
+Funcionamiento de los transformadores eléctricos. (s. f.). Fundacionendesa.org. Recuperado 9 de septiembre de 2021, de https://www.fundacionendesa.org/es/recursos/a201908-corrientes-alternas-con-un-transformador-electrico
 
+Allan H. Robbins, W. C. (2008). Análisis de Circuitos: Teoría Y Práctica (Cuarta ed.). (2. Cengage Learning Latin America, Ed., & G. M. Hernández, Trad.)
 
 
 
