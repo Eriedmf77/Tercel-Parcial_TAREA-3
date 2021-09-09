@@ -249,9 +249,6 @@ https://youtu.be/wfme_0k_dzY
 
 ## 5.Conclusiones
 
-**Capítulo 23**
-
-**Capítulo 24**
 
 ## 6.Bibliografía 
 
