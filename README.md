@@ -116,6 +116,23 @@ _37. Los inductores de la figura 23-82 están mutuamente acoplados. ¿Cuál es s
 
 **Capítulo 24**
 
+_1. Mientras las cargas y voltajes de la figura 24-3(c) estén balanceados (sin tener en cuenta su valor real) las corrientes IA, IB, e Ic sumarán cero. Para ilustrarlo, cambie la impedancia de carga de 12 a 15 NZ30o y para EA = 120 V 20°, haga lo siguiente: a. Calcule las corrientes IA, Ig e Ic. b. Sume las corrientes. ¿Se cumple IA + 18 + Ic = 0?_
+
+![image](https://user-images.githubusercontent.com/84418933/132721837-1743fd17-a80a-4d8f-bc2e-6fd1012ec217.png)
+
+![image](https://user-images.githubusercontent.com/84418933/132721861-e4f6aa87-2ebd-41af-9030-df6bfbfa92af.png)
+
+_7. Para la carga de la figura 24-47, Van = 347 V 215°. Determine todas las corrientes de línea. Dibuje el diagrama fasorial._
+
+![image](https://user-images.githubusercontent.com/84418933/132721905-c1a3889e-8bdb-4c57-a578-e66c91c953cd.png)
+
+![image](https://user-images.githubusercontent.com/84418933/132721922-d8f419eb-30de-4d16-8b8a-3d3cdebeac36.png)
+
+_13. Para el circuito de la figura 24-48, si Lab = 10 AZ-21°, determine todos los voltajes de línea._
+
+![image](https://user-images.githubusercontent.com/84418933/132721962-fc6c0d87-93ab-46ab-baa4-632f384ca598.png)
+
+![image](https://user-images.githubusercontent.com/84418933/132721989-021ba817-0ce5-4caa-a12e-6f0bb9f88c0c.png)
 
 ## 4.Video
 
