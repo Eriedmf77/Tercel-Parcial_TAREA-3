@@ -43,11 +43,11 @@ _a. ¿El voltaje se eleva o se reduce?_
 
 ![image](https://user-images.githubusercontent.com/85728185/132720312-b5a1855f-73b6-46c2-a3b7-539fc510ffd9.png)
 
-_B. Si es _ 100 sen qt, ¿que valor tiene ep cuando se devana como en la figura 23-7 (a)? _
+_B. Si es _ 100 sen qt, ¿que valor tiene ep cuando se devana como en la figura 23-7 (a)?_
 
 ![image](https://user-images.githubusercontent.com/85728185/132720263-37260e99-4c34-4d4e-85f6-873d6f5fb801.png)
 
-_C. Si Es _ 24 voltios, ¿que valor tiene Ep? _
+_C. Si Es _ 24 voltios, ¿que valor tiene Ep?_
 
 ![image](https://user-images.githubusercontent.com/85728185/132720221-f786d79e-898e-4d23-a4d4-0c1698619667.png)
 
@@ -56,11 +56,11 @@ _d. Si Ep _ 24 V∠0_, ¿que valor tiene Es cuando se devana como en la figura 2
 
 ![image](https://user-images.githubusercontent.com/85728185/132720167-f11509a8-7e8d-4d3f-83eb-c060e28335f1.png)
 
-_mi. Si Ep _ 800 V∠0_ , ¿que valor tiene Es cuando se devana como en la figura 23-7 (b)? _
+_mi. Si Ep _ 800 V∠0_ , ¿que valor tiene Es cuando se devana como en la figura 23-7 (b)?_
 
 ![image](https://user-images.githubusercontent.com/85728185/132720074-b4962df1-c2d2-412b-a402-2cb434c8e317.png)
 
-_7. Si, para la figura 23-73, E, = 240 V 20 °, a = 0.5, el, = 2 A220 °, determine lo siguiente: _
+_7. Si, para la figura 23-73, E, = 240 V 20 °, a = 0.5, el, = 2 A220 °, determine lo siguiente:_
 
 ![image](https://user-images.githubusercontent.com/84418933/132708663-c8d59ca8-bc2b-4a3d-99ce-20ee3247d8d7.png)
 
