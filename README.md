@@ -249,6 +249,8 @@ https://youtu.be/wfme_0k_dzY
 
 ## 5.Conclusiones
 
+_Los transformadores tienen varias aplicaciones, se usan en sistemas de potencia eléctrica, en sistemas de audio, en telefonía, etc._
+
 
 ## 6.Bibliografía 
 
