@@ -60,11 +60,28 @@ _mi. Si Ep _ 800 V∠0_ , ¿que valor tiene Es cuando se devana como en la figur
 
 ![image](https://user-images.githubusercontent.com/85728185/132720074-b4962df1-c2d2-412b-a402-2cb434c8e317.png)
 
+_5.- Para la ﬁgura 23-72, determine las expresiones para v1, v2 y v3._
+
+![image](https://user-images.githubusercontent.com/85259801/132727120-06579527-5b4c-481b-b0f0-66d9973bf11f.png)
+
+![image](https://user-images.githubusercontent.com/85259801/132727152-76a45790-988a-4a3b-8305-8315ad0fcd1e.png)
+
+![image](https://user-images.githubusercontent.com/85259801/132727215-7b4261d7-70fc-40b4-9c04-b116ed213ece.png)
+
 _7. Si, para la figura 23-73, E, = 240 V 20 °, a = 0.5, el, = 2 A220 °, determine lo siguiente:_
 
 ![image](https://user-images.githubusercontent.com/84418933/132708663-c8d59ca8-bc2b-4a3d-99ce-20ee3247d8d7.png)
 
 ![image](https://user-images.githubusercontent.com/84418933/132708711-46f9a95a-3e6f-4137-9252-5ac7079033ae.png)
+
+_11.- Para cada circuito de la ﬁgura 23-74, determine Zp._
+
+![image](https://user-images.githubusercontent.com/85259801/132727239-597dcb8a-ad8a-46e0-b859-772733d9abb5.png)
+
+![image](https://user-images.githubusercontent.com/85259801/132727253-708a611d-1f19-4b1b-b720-34a799a6a874.png)
+
+![image](https://user-images.githubusercontent.com/85259801/132727282-3f727760-c069-47f6-8a5a-82ce6b7f9fb6.png)
+
 
 _13. Para la figura 23-74(a), ¿qué relación de vueltas se requiere para hacer que Z= (62.5 - j125) N?_
 
@@ -90,6 +107,13 @@ _15. Para cada circuito de la figura 23-75, determine ZT._
 
 ![image](https://user-images.githubusercontent.com/85728185/132722099-714c8925-9a35-4cdd-b928-b2e929c9a492.png)
 
+_17.- Un transformador tiene una especiﬁcación de voltaje primario de 7.2 kV, a = 0.2, y una especiﬁcación de corriente en el secundario de 3 A. ¿Cuál es la es-peciﬁcación de kVA?_
+
+![image](https://user-images.githubusercontent.com/85259801/132727357-6a3a61b2-48c8-4c0e-a8ef-f56ce6ae583a.png)
+
+![image](https://user-images.githubusercontent.com/85259801/132727372-56200149-8b17-4744-817d-485bd1670642.png)
+
+
 _19. El transformador de la figura 23-25 tiene un primario de 7200 V y un secundario de 240 V con terminal central. Si la carga I consiste en doce lámparas de 100 W, la carga 2 es un calentador de 1500 W y la carga 3 es una horno de 2400 W con F = 1.0, determine_
 
 ![image](https://user-images.githubusercontent.com/84418933/132709012-34fb1115-fc69-49c6-b128-4c87c89a99f8.png)
@@ -100,6 +124,13 @@ _19. El transformador de la figura 23-25 tiene un primario de 7200 V y un secund
 _21. Un amplificador con un equivalente de Thevenin de 10 V y RTh de 25 _ maneja una bocina de 4 _ a traves de un transformador con una relacion de vueltas de a _ 5. ¿Cuanta potencia es suministrada a la bocina? ¿Qué relación de vueltas produce 1 W?_
 
 <img width="450" alt="1111" src="https://user-images.githubusercontent.com/85728185/132723510-f504074e-44b9-4fe4-bcf4-f9093ab2ec75.png">
+
+_23.- Para la ﬁgura 23-30(a), a2 = 2 y a3 = 5, Z2 = 20Ω ∠ 50°, Z3 = (12 + j4)Ω y Eg = 120 V ∠0°. Encuentre cada corriente de carga y la corriente del generador._
+
+![image](https://user-images.githubusercontent.com/85259801/132727395-47918c4d-6757-43da-a802-900a8c4ce8a2.png)
+
+![image](https://user-images.githubusercontent.com/85259801/132727415-021edb59-0a00-49b8-a62e-d37219e0fc3c.png)
+
 
 _25. Para la figura 23-77, E = 1220 V 20 ° ._
 
@@ -115,11 +146,31 @@ _27. Un transformador que entrega Psal _ 48 kW tiene un perdida en el nucleo de 
 
 ![image](https://user-images.githubusercontent.com/85728185/132724431-8660cb61-b1dd-4569-80f1-4fc55f6c6752.png)
 
+_29.- Para la ﬁgura 23-78,_
+
+![image](https://user-images.githubusercontent.com/85259801/132727460-658aa579-32d4-406e-a9f7-8e7f720d4c3a.png)
+
+_Para cada circuito indique qué signo usar con M, mas o menos._ 
+
+![image](https://user-images.githubusercontent.com/85259801/132727506-03db36e1-c2c8-462e-ac2a-3106e9d7142f.png)
+
+![image](https://user-images.githubusercontent.com/85259801/132727532-fa580b15-41c7-4307-b42c-3ba94cd42e1c.png)
+
+![image](https://user-images.githubusercontent.com/85259801/132727556-2392d906-ef37-428d-a208-1049c2fd7f9c.png)
+
+
 _33. Todo igual que en el problema 32, excepto que i1 _ 10 e_500t A. Encuentre las ecuaciones de los voltajes del primario y el secundario. Calculelos a t _ 1 ms._
 
 ![image](https://user-images.githubusercontent.com/85728185/132724717-6fb09f7f-8aee-4d0c-97de-ba29d4e8ef27.png)
 
 ![image](https://user-images.githubusercontent.com/85728185/132724789-22eef322-17f5-4172-908b-9dec2e824d5a.png)
+
+_35.- Para la figura 23-80, determine LT._
+
+![image](https://user-images.githubusercontent.com/85259801/132727591-0b8602bd-ff7b-4bb3-8b58-a50f33924335.png)
+
+![image](https://user-images.githubusercontent.com/85259801/132727621-e07a3209-9a30-43d5-bb6a-99880e6b9a2a.png)
+
 
 _37. Los inductores de la figura 23-82 están mutuamente acoplados. ¿Cuál es su inductancia equivalente? Si f = 60 Hz, ¿cuál es la corriente en la fuente? _
 
@@ -160,11 +211,7 @@ _13. Para el circuito de la figura 24-48, si Lab = 10 AZ-21 °, determine todos 
 
 ![image](https://user-images.githubusercontent.com/84418933/132721989-021ba817-0ce5-4caa-a12e-6f0bb9f88c0c.png)
 
-_15. Una carga Y balanceada tiene una impedancia de fase de 24 _∠33_ y un voltaje linea a linea de 600 V. Tome Van como referencia y determine todas las corrientes de linea._
-
-![image](https://user-images.githubusercontent.com/85728185/132727293-023cc6f1-d47a-4bb9-960f-ac1f45edf7a1.png)
-
-_31. Para la figura 24-21 (a), Zy = 15 12 + 20 A, ZA = 91-12 12, Zinea0.12 + j0.1, e l'b '= 40 AZ73.13o. El voltaje de fase Y Van magnitud y ángulo encontrado ._
+_31. Para la figura 24-21(a), Zy = 15 12 + 20 A, ZA = 91-12 12, Zinea0.12 + j0.1 , e l'b' = 40 AZ73.13o. Encuentre el voltaje de fase Y Van magnitud y ángulo._
 
 ![image](https://user-images.githubusercontent.com/84418933/132724094-ad97144d-9366-479a-8622-46ac3dc18d3c.png)
 
