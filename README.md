@@ -113,7 +113,7 @@ _b. Determine I, IL Y VL._
 
 _27. Un transformador que entrega Psal _ 48 kW tiene un perdida en el nucleo de 280 W y una perdida en el cobre de 450 W. ¿Cual es su eficiencia a esta carga?_
 
-![image](https://user-images.githubusercontent.com/85728185/132724139-35412309-064c-454b-8bfc-1216e0977c0f.png)
+![image](https://user-images.githubusercontent.com/85728185/132724431-8660cb61-b1dd-4569-80f1-4fc55f6c6752.png)
 
 _37. Los inductores de la figura 23-82 están mutuamente acoplados. ¿Cuál es su inductancia equivalente? Si f = 60 Hz, ¿cuál es la corriente en la fuente? _
 
