@@ -41,23 +41,24 @@ _3. Un transformador ideal tiene Np _ 1000 vueltas y Ns _ 4000 vueltas._
 
 _a. ¿El voltaje se eleva o se reduce?_
 
-![image](https://user-images.githubusercontent.com/85728185/132719647-05daf3c5-7ac3-42dd-823b-cbb1fde39869.png)
+![image](https://user-images.githubusercontent.com/85728185/132720312-b5a1855f-73b6-46c2-a3b7-539fc510ffd9.png)
 
-_b. Si es _ 100 sen qt, ¿que valor tiene ep cuando se devana como en la figura 23-7(a)?_
+_B. Si es _ 100 sen qt, ¿que valor tiene ep cuando se devana como en la figura 23-7 (a)? _
 
-![image](https://user-images.githubusercontent.com/85728185/132719715-3c7637dd-ad2a-409f-a19f-66b60b042b21.png)
+![image](https://user-images.githubusercontent.com/85728185/132720263-37260e99-4c34-4d4e-85f6-873d6f5fb801.png)
 
-_c. Si Es _ 24 volts, ¿que valor tiene Ep?_
+_C. Si Es _ 24 voltios, ¿que valor tiene Ep? _
 
-![image](https://user-images.githubusercontent.com/85728185/132719760-7fd7ef1b-6ce6-4b9f-9aad-bb3fed7602a5.png)
+![image](https://user-images.githubusercontent.com/85728185/132720221-f786d79e-898e-4d23-a4d4-0c1698619667.png)
+
 
 _d. Si Ep _ 24 V∠0_, ¿que valor tiene Es cuando se devana como en la figura 23-7(a)?_
 
-![image](https://user-images.githubusercontent.com/85728185/132719801-42d52275-3f80-4ad7-906c-d39377873a93.png)
+![image](https://user-images.githubusercontent.com/85728185/132720167-f11509a8-7e8d-4d3f-83eb-c060e28335f1.png)
 
-_e. Si Ep _ 800 V∠0_, ¿que valor tiene Es cuando se devana como en la figura 23-7(b)?_
+_mi. Si Ep _ 800 V∠0_ , ¿que valor tiene Es cuando se devana como en la figura 23-7 (b)? _
 
-![image](https://user-images.githubusercontent.com/85728185/132719897-cb8b385d-e95c-4eae-9882-d7c80008cd29.png)
+![image](https://user-images.githubusercontent.com/85728185/132720074-b4962df1-c2d2-412b-a402-2cb434c8e317.png)
 
 _7. Si, para la figura 23-73, E, = 240 V 20 °, a = 0.5, el, = 2 A220 °, determine lo siguiente: _
 
