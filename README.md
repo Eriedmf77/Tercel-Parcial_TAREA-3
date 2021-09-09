@@ -37,7 +37,29 @@ _1. Para los transformadores de la figura 23-71, dibuje las formas de onda que f
 
 ![image](https://user-images.githubusercontent.com/84418933/132708592-eac0c928-73d8-4408-9da4-f649f5219c10.png)
 
-_7. Si, para la figura 23-73, E, = 240 V 20°, a = 0.5, el, = 2 A220°, determine lo siguiente:_
+_3. Un transformador ideal tiene Np _ 1000 vueltas y Ns _ 4000 vueltas._
+
+_a. ¿El voltaje se eleva o se reduce?_
+
+![image](https://user-images.githubusercontent.com/85728185/132719647-05daf3c5-7ac3-42dd-823b-cbb1fde39869.png)
+
+_b. Si es _ 100 sen qt, ¿que valor tiene ep cuando se devana como en la figura 23-7(a)?_
+
+![image](https://user-images.githubusercontent.com/85728185/132719715-3c7637dd-ad2a-409f-a19f-66b60b042b21.png)
+
+_c. Si Es _ 24 volts, ¿que valor tiene Ep?_
+
+![image](https://user-images.githubusercontent.com/85728185/132719760-7fd7ef1b-6ce6-4b9f-9aad-bb3fed7602a5.png)
+
+_d. Si Ep _ 24 V∠0_, ¿que valor tiene Es cuando se devana como en la figura 23-7(a)?_
+
+![image](https://user-images.githubusercontent.com/85728185/132719801-42d52275-3f80-4ad7-906c-d39377873a93.png)
+
+_e. Si Ep _ 800 V∠0_, ¿que valor tiene Es cuando se devana como en la figura 23-7(b)?_
+
+![image](https://user-images.githubusercontent.com/85728185/132719897-cb8b385d-e95c-4eae-9882-d7c80008cd29.png)
+
+_7. Si, para la figura 23-73, E, = 240 V 20 °, a = 0.5, el, = 2 A220 °, determine lo siguiente: _
 
 ![image](https://user-images.githubusercontent.com/84418933/132708663-c8d59ca8-bc2b-4a3d-99ce-20ee3247d8d7.png)
 
