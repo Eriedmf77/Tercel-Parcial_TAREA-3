@@ -29,6 +29,7 @@ _Analizar los sistemas de tres fases y sus elementos_
 
 **Capítulo 24**
 
+![image](https://user-images.githubusercontent.com/85728185/132765738-a1251b12-6114-4457-9e06-65cfe51fd141.png)
 
 ## 3. Explicación y Resolución ejercicios
 
