@@ -12,7 +12,7 @@
 ## 1.Objetivos
 ***Objetivo General***
 
-
+_Realizar los ejercicips planteados del Capítulo 23 y Capítulo 24 comprendiendo conceptos y fundamentos principales.
 
 ***Objetivos Específicos***
 
