@@ -21,7 +21,9 @@
 
 **Capítulo 23**
 
-**Capítulo 24**
+![image](https://user-images.githubusercontent.com/85728185/132716128-003e196c-ef91-4ccd-b476-8d7fca3d400d.png)
+
+** Capítulo 24 **
 
 
 ## 3. Explicación y Resolución ejercicios
