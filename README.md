@@ -72,6 +72,18 @@ _13. Para la figura 23-74(a), ¿qué relación de vueltas se requiere para hacer
 
 ![image](https://user-images.githubusercontent.com/84418933/132708793-bdce8015-ecbe-4223-8b35-468c67d71c1b.png)
 
+_9. Si, para la figura 23-73, a _ 4, Ig _ 4 A∠30_, y ZL _ 6 __j8 _, determine lo siguiente:_
+
+![image](https://user-images.githubusercontent.com/85728185/132721162-7e84a116-67e0-4934-a82e-c6b730786d0a.png)
+
+_a. VL _
+
+![image](https://user-images.githubusercontent.com/85728185/132721008-d982404e-ff1c-42d4-b984-94f163b54795.png)
+
+_b. EG_
+
+![image](https://user-images.githubusercontent.com/85728185/132721129-3e055bf4-88fc-4fe3-89ff-88f488cd67c2.png)
+
 _19. El transformador de la figura 23-25 tiene un primario de 7200 V y un secundario de 240 V con terminal central. Si la carga I consiste en doce lámparas de 100 W, la carga 2 es un calentador de 1500 W y la carga 3 es una horno de 2400 W con F = 1.0, determine_
 
 ![image](https://user-images.githubusercontent.com/84418933/132709012-34fb1115-fc69-49c6-b128-4c87c89a99f8.png)
@@ -97,26 +109,6 @@ _37. Los inductores de la figura 23-82 están mutuamente acoplados. ¿Cuál es s
 
 
 **Capítulo 24**
-
-_1. Mientras las cargas y voltajes de la figura 24-3(c) estén balanceados (sin tener en cuenta su valor real) las corrientes IA, IB, e Ic sumarán cero. Para ilustrarlo, cambie la impedancia de carga de 12 a 15 NZ30o y para EA = 120 V 20°, haga lo siguiente: a. Calcule las corrientes IA, Ig e Ic. b. Sume las corrientes. ¿Se cumple IA + 18 + Ic = 0?_
-
-![image](https://user-images.githubusercontent.com/84418933/132720816-9d76e52a-dc0f-4e6e-b858-1060f6b8ca25.png)
-
-![image](https://user-images.githubusercontent.com/84418933/132720843-5b3626f3-df66-40fb-88ba-b20aa32ade03.png)
-
-_7. Para la carga de la figura 24-47, Van = 347 V 215°. Determine todas las corrientes de línea. Dibuje el diagrama fasorial._
-
-![image](https://user-images.githubusercontent.com/84418933/132720880-bf67150a-d043-46e4-b28d-77129919310b.png)
-
-![image](https://user-images.githubusercontent.com/84418933/132720902-04593332-e146-49eb-96be-c1368bb85bfb.png)
-
-_13. Para el circuito de la figura 24-48, si Lab = 10 AZ-21°, determine todos los voltajes de línea._
-
-![image](https://user-images.githubusercontent.com/84418933/132720941-624cebb6-e7be-4e97-803e-927c4ff3fd5a.png)
-
-![image](https://user-images.githubusercontent.com/84418933/132720968-38a8c336-48f0-43ab-ba79-3962acc7b161.png)
-
-
 
 
 ## 4.Video
