@@ -142,6 +142,32 @@ _13. Para el circuito de la figura 24-48, si Lab = 10 AZ-21°, determine todos l
 
 ![image](https://user-images.githubusercontent.com/84418933/132721989-021ba817-0ce5-4caa-a12e-6f0bb9f88c0c.png)
 
+_31. Para la figura 24-21(a), Zy = 15 12 + 20 A, ZA = 91-12 12, Zinea0.12 + j0.1 , e l'b' = 40 AZ73.13o. Encuentre el voltaje de fase Y Van magnitud y ángulo._
+
+![image](https://user-images.githubusercontent.com/84418933/132724094-ad97144d-9366-479a-8622-46ac3dc18d3c.png)
+
+![image](https://user-images.githubusercontent.com/84418933/132724122-b5a38e5a-7fdc-4aae-9147-65ef24111fbb.png)
+
+_37. Para la figura 24-48, EAB = 208 V. Calcule las potencias real, reactiva y aparente con las fórmulas para Pr. Qr, y Sr de la tabla 24-2. Compare sus resultados con los del problema 36._
+
+![image](https://user-images.githubusercontent.com/84418933/132724158-df039222-082b-4160-9217-a0425b175395.png)
+
+![image](https://user-images.githubusercontent.com/84418933/132724176-f27305a5-1a7a-484b-b304-79ff0a6dc13b.png)
+
+_43. Vab=208 V para una carga balanceada Y, PT = 1200 W, y Or = 750 VAR/(ind). Seleccione Van como referencia y determine I (Use el triángulo de potencia)_
+
+![image](https://user-images.githubusercontent.com/84418933/132724232-218b24f6-62eb-4283-839c-7382714bf006.png)
+
+_49. Para el circuito de la figura 24-56, Vab = 208 V 230°._
+
+_a. Determine la magnitud y ángulo de las corrientes._ 
+
+_b. Determine la potencia por fase y la potencia total, Pr._
+
+![image](https://user-images.githubusercontent.com/84418933/132724296-0b4fa6e5-7cd4-4264-aab8-330fc785e7bf.png)
+
+![image](https://user-images.githubusercontent.com/84418933/132724332-96784c8b-7788-4531-a734-f5256251eb2e.png)
+![image](https://user-images.githubusercontent.com/84418933/132724361-a78bad03-4c8c-4895-b092-703594346447.png)
 ## 4.Video
 
 **Capítulo 23**
