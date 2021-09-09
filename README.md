@@ -140,7 +140,11 @@ _1. Mientras las cargas y voltajes de la figura 24-3(c) estén balanceados (sin 
 
 ![image](https://user-images.githubusercontent.com/84418933/132721861-e4f6aa87-2ebd-41af-9030-df6bfbfa92af.png)
 
-_7. Para la carga de la figura 24-47, Van = 347 V 215°. Determine todas las corrientes de línea. Dibuje el diagrama fasorial._
+_3. Dibuje el conjunto de formas de onda de las corrientes iA, iB e iC para el circuito de la figura 24-3(c). Suponga carga puramente resistiva y balanceada._
+
+![image](https://user-images.githubusercontent.com/85728185/132726057-7defac47-cde7-40e6-91b6-29006dd0467e.png)
+
+_7. Para la carga de la figura 24-47, Van = 347 V 215 °. Determine todas las corrientes de línea. Dibuje el diagrama fasorial._
 
 ![image](https://user-images.githubusercontent.com/84418933/132721905-c1a3889e-8bdb-4c57-a578-e66c91c953cd.png)
 
