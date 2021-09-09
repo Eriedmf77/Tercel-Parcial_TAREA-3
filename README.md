@@ -251,6 +251,7 @@ https://youtu.be/wfme_0k_dzY
 
 _Los transformadores tienen varias aplicaciones, se usan en sistemas de potencia eléctrica, en sistemas de audio, en telefonía, etc._
 
+_Los sistemas trifásicos se usan para generar y trasmitir potencia eléctrica._
 
 ## 6.Bibliografía 
 
