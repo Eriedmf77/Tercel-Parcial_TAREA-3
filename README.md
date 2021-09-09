@@ -21,7 +21,8 @@
 
 **Capítulo 23**
 
-![image](https://user-images.githubusercontent.com/85728185/132716128-003e196c-ef91-4ccd-b476-8d7fca3d400d.png)
+![image](https://user-images.githubusercontent.com/85728185/132716440-15a3ff1d-8479-48a9-b458-2561f47eb9bf.png)
+
 
 ** Capítulo 24 **
 
