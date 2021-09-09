@@ -127,6 +127,10 @@ _37. Los inductores de la figura 23-82 están mutuamente acoplados. ¿Cuál es s
 
 ![image](https://user-images.githubusercontent.com/84418933/132709907-a9dbdbc8-ee6f-4985-b0e1-8e81607c2f20.png)
 
+_39. Para el circuito de la figura 23-83, escriba las ecuaciones de malla._
+
+![image](https://user-images.githubusercontent.com/85728185/132725199-5d5c7922-e050-487c-a6fc-9bf0d428f146.png)
+
 
 **Capítulo 24**
 
