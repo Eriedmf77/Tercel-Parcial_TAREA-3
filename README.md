@@ -160,7 +160,11 @@ _13. Para el circuito de la figura 24-48, si Lab = 10 AZ-21 °, determine todos 
 
 ![image](https://user-images.githubusercontent.com/84418933/132721989-021ba817-0ce5-4caa-a12e-6f0bb9f88c0c.png)
 
-_31. Para la figura 24-21(a), Zy = 15 12 + 20 A, ZA = 91-12 12, Zinea0.12 + j0.1 , e l'b' = 40 AZ73.13o. Encuentre el voltaje de fase Y Van magnitud y ángulo._
+_15. Una carga Y balanceada tiene una impedancia de fase de 24 _∠33_ y un voltaje linea a linea de 600 V. Tome Van como referencia y determine todas las corrientes de linea._
+
+![image](https://user-images.githubusercontent.com/85728185/132727293-023cc6f1-d47a-4bb9-960f-ac1f45edf7a1.png)
+
+_31. Para la figura 24-21 (a), Zy = 15 12 + 20 A, ZA = 91-12 12, Zinea0.12 + j0.1, e l'b '= 40 AZ73.13o. El voltaje de fase Y Van magnitud y ángulo encontrado ._
 
 ![image](https://user-images.githubusercontent.com/84418933/132724094-ad97144d-9366-479a-8622-46ac3dc18d3c.png)
 
