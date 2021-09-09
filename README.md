@@ -1,7 +1,7 @@
 
 ##
 
-# Informe Ejercicios Capitulo XVII y XVIII
+# Informe Ejercicios Capitulo XXIII y XXIV
 #### Fundamento de circuitos Eléctricos 
 ### Ing. Darwin Omar Alulema Flores
 
@@ -19,14 +19,14 @@
 
 ## 2.Marco Teórico
 
-**Capítulo 17**
+**Capítulo 23**
 
-**Capítulo 18**
+**Capítulo 24**
 
 
 ## 3. Explicación y Resolución ejercicios
 
-**Capítulo 17**
+**Capítulo 23**
 
 _1. Para los transformadores de la figura 23-71, dibuje las formas de onda que faltan._
 
@@ -75,15 +75,15 @@ _37. Los inductores de la figura 23-82 están mutuamente acoplados. ¿Cuál es s
 
 ## 4.Video
 
-**Capítulo 17**
+**Capítulo 23**
 
-**Capítulo 18**
+**Capítulo 24**
 
 ## 5.Conclusiones
 
-**Capítulo 17**
+**Capítulo 23**
 
-**Capítulo 18**
+**Capítulo 24**
 
 ## 6.Bibliografía 
 
