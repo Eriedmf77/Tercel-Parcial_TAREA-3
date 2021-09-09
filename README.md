@@ -16,6 +16,9 @@ _Realizar los ejercicips planteados del Capítulo 23 y Capítulo 24 comprendiend
 
 ***Objetivos Específicos***
 
+_Comprender los que es un transformador sus aplicaciones y como se los emplean_
+
+_Analizar los sistemas de tres fases y sus elementos_
 
 ## 2.Marco Teórico
 
