@@ -150,7 +150,11 @@ _7. Para la carga de la figura 24-47, Van = 347 V 215 °. Determine todas las co
 
 ![image](https://user-images.githubusercontent.com/84418933/132721922-d8f419eb-30de-4d16-8b8a-3d3cdebeac36.png)
 
-_13. Para el circuito de la figura 24-48, si Lab = 10 AZ-21°, determine todos los voltajes de línea._
+_9. Una carga Y balanceada tiene una impedancia de Zan _ 14.7 _∠16_. Si Vcn _ 120 V∠160_, determine todas las corrientes de linea._
+
+![image](https://user-images.githubusercontent.com/85728185/132726865-d8f37ea0-e036-4825-877b-d149c7dea117.png)
+
+_13. Para el circuito de la figura 24-48, si Lab = 10 AZ-21 °, determine todos los voltajes de línea._
 
 ![image](https://user-images.githubusercontent.com/84418933/132721962-fc6c0d87-93ab-46ab-baa4-632f384ca598.png)
 
