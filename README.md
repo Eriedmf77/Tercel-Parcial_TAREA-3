@@ -182,7 +182,11 @@ _b. Determine la potencia por fase y la potencia total, Pr._
 
 **Capítulo 23**
 
+https://youtu.be/VPOJZulx1tk
+
 **Capítulo 24**
+
+https://youtu.be/wfme_0k_dzY
 
 ## 5.Conclusiones
 
