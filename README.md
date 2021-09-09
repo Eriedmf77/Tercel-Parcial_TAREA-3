@@ -115,6 +115,12 @@ _27. Un transformador que entrega Psal _ 48 kW tiene un perdida en el nucleo de 
 
 ![image](https://user-images.githubusercontent.com/85728185/132724431-8660cb61-b1dd-4569-80f1-4fc55f6c6752.png)
 
+_33. Todo igual que en el problema 32, excepto que i1 _ 10 e_500t A. Encuentre las ecuaciones de los voltajes del primario y el secundario. Calculelos a t _ 1 ms._
+
+![image](https://user-images.githubusercontent.com/85728185/132724717-6fb09f7f-8aee-4d0c-97de-ba29d4e8ef27.png)
+
+![image](https://user-images.githubusercontent.com/85728185/132724789-22eef322-17f5-4172-908b-9dec2e824d5a.png)
+
 _37. Los inductores de la figura 23-82 están mutuamente acoplados. ¿Cuál es su inductancia equivalente? Si f = 60 Hz, ¿cuál es la corriente en la fuente? _
 
 ![image](https://user-images.githubusercontent.com/84418933/132709873-5350f42c-5a18-48b1-b21e-22c87b7207cd.png)
