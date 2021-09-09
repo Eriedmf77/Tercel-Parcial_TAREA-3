@@ -97,7 +97,11 @@ _19. El transformador de la figura 23-25 tiene un primario de 7200 V y un secund
 ![image](https://user-images.githubusercontent.com/84418933/132709127-73c0361c-f0c0-4ee0-91b6-1a190541fcf6.png)
 ![image](https://user-images.githubusercontent.com/84418933/132709244-6e7f4618-5a1f-48c1-b51c-3c4593ef799d.png)
 
-_25. Para la figura 23-77, E = 1220 V 20°._
+_21. Un amplificador con un equivalente de Thevenin de 10 V y RTh de 25 _ maneja una bocina de 4 _ a traves de un transformador con una relacion de vueltas de a _ 5. ¿Cuanta potencia es suministrada a la bocina? ¿Qué relación de vueltas produce 1 W?_
+
+<img width="450" alt="1111" src="https://user-images.githubusercontent.com/85728185/132723510-f504074e-44b9-4fe4-bcf4-f9093ab2ec75.png">
+
+_25. Para la figura 23-77, E = 1220 V 20 ° ._
 
 _a. Dibuje el circuito equivalente._ 
 
