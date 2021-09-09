@@ -24,7 +24,7 @@
 ![image](https://user-images.githubusercontent.com/85728185/132716440-15a3ff1d-8479-48a9-b458-2561f47eb9bf.png)
 
 
-** Capítulo 24 **
+**Capítulo 24**
 
 
 ## 3. Explicación y Resolución ejercicios
